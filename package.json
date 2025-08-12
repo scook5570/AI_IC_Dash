@@ -1,0 +1,14 @@
+{
+  "name": "ai_ic_dash",
+  "version": "1.0.0",
+  "description": "AI powered intelligence platform for tracking criminal connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.2.6"
+  }
+}
